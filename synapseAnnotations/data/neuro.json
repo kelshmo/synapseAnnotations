@@ -524,6 +524,11 @@
         "value": "MODEL-AD_APPPS1", 
         "description": "MODEL-AD APP/PS1 Study",
         "source": "https://www.synapse.org/#!Synapse:syn18633019"
+      },
+      {
+        "value":"iPSCNeuroDiff",
+        "description":"Neuronal differentiation of iPSCs: Comparison between 3D organoids and 2D monolayers study",
+        "source":"https://www.synapse.org/#!Synapse:syn5553626"
       }
     ]
   }, 
